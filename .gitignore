@@ -1,0 +1,6 @@
+# Files that should not go into a public repo's commit history
+/private/
+
+# OS specific
+.DS_Store
+Thumbs.db
