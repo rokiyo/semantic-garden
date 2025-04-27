@@ -1,4 +1,4 @@
-# Files that should not go into a public repo's commit history
+/.obsidian/
 /private/
 
 # OS specific
