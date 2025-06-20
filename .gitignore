@@ -1,0 +1,6 @@
+/.obsidian/
+/private/
+
+# OS specific
+.DS_Store
+Thumbs.db
